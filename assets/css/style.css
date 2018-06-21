@@ -1,0 +1,10 @@
+.navbar-brand {
+    background: #4aaaa5;
+    float: left;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+    font-size: 24px;
+    text-decoration: none;
+}
