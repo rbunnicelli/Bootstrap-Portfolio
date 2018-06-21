@@ -21,6 +21,8 @@ body {
 }
 .navbar {
     background: #fff;
+    margin: 0 0 30px;
+    z-index: 99;
     color: #fff;
     overflow: auto;
     border-bottom: 2px solid #ccc;
@@ -61,7 +63,6 @@ h2, h3 {
 
 .navbar-nav {
     float: right;
-    margin-top: 25px;
  }
  nav a {
      color: #999;
@@ -137,6 +138,10 @@ footer {
 }
 .text-muted {
     color: #fff !important;
+}
+.container2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 /* Porfolio */
 .work {
