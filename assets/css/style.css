@@ -28,6 +28,8 @@ body {
     border-bottom: 2px solid #ccc;
     position: fixed;
     width: 100%;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 .container {
     width: 100%;
